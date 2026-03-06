@@ -1,0 +1,62 @@
+{
+  "projectName": "t4ai-signature-detect-server",
+  "projectOwner": "tech4ai",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "samuellimabraz",
+      "name": "Samuel Lima Braz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115582014?v=4",
+      "profile": "https://github.com/samuellimabraz",
+      "contributions": [
+        "code",
+        "doc",
+        "data",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "jwillians",
+      "name": "Jorge Willians",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299830?v=4",
+      "profile": "https://www.youtube.com/jwillians",
+      "contributions": [
+        "infra",
+        "review"
+      ]
+    },
+    {
+      "login": "NixonMSilva",
+      "name": "Nixon Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15185532?v=4",
+      "profile": "https://github.com/NixonMSilva",
+      "contributions": [
+        "infra",
+        "review",
+        "security",
+        "tool"
+      ]
+    },
+    {
+      "login": "ronaldobalzi-tech4h",
+      "name": "ronaldobalzi-tech4h",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136820259?v=4",
+      "profile": "https://github.com/ronaldobalzi-tech4h",
+      "contributions": [
+        "infra",
+        "review",
+        "security",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
