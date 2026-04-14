@@ -511,4 +511,4 @@ Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you f
 
 This project is licensed under the **Apache Software License 2.0**.
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE) for more information.
