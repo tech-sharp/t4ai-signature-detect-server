@@ -33,4 +33,4 @@ for _ in range(100):
             break
     time.sleep(1)
 else:
-    raise RuntimeError(f"O modelo {model_name} não ficou pronto a tempo.")
+    raise RuntimeError(f"O modelo {model_name} não ficou pronto a tempo.")
