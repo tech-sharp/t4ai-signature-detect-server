@@ -62,4 +62,4 @@ After you submit your pull request, it will be reviewed by the project maintaine
 - **Testing:** Ensure that your changes do not break existing tests and, if applicable, add new tests to cover your changes.
 - **Documentation:** Update the documentation to reflect any changes or new features you have added.
 
-Thank you for your contributions!
+Thank you for your contributions!
